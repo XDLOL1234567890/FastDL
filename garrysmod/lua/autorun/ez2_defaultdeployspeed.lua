@@ -1,1 +1,0 @@
-RunConsoleCommand("sv_defaultdeployspeed", "2")
